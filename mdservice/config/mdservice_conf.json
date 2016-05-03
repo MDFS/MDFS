@@ -1,7 +1,0 @@
-{
-	"protocol": "tcp",
-	"host": "localhost",
-	"port": "1994",
-	"path": "/path/to/files/mdservice/",
-    "unid": "-1"
-}
